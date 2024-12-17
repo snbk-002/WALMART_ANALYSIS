@@ -42,12 +42,29 @@
 
 ### *6. Feature Engineering*
 
-
+**Create New Columns** : Calculate Total Amount for each transaction by unit_price * quantity and adding this as a new column 
 
 ### *7. Loading Data into SQL : Complex Queries and Business Solving*
 
+**Table Creation** : Set up table  in PostgreSQL to insert and load the dataset values
 
-### *8. Project Documentation* 
+**Business Problem Solving** : Write and execute complex SQL queries to answer critical business questions
+**->Revenue trends across branches and categories**
+     
+**->Identifying best selling product categories**
+     
+**->Sales performance by time, city and payment method**
+     
+**Profit Margin analysis by branch and category**
+     
+### *8. Publishing Data into Power BI* 
+
+Implementing dashboard to show trends, charts and analyze year-to-year growth
+
+### *9. Project Documentation* 
+
+ Maintaining a well structured code documentation through Python notebook and SQL file.
+ For details Please go through the PPT
 
 
 
