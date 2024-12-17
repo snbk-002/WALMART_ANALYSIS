@@ -49,13 +49,14 @@
 **Table Creation** : Set up table  in PostgreSQL to insert and load the dataset values
 
 **Business Problem Solving** : Write and execute complex SQL queries to answer critical business questions
-**->Revenue trends across branches and categories**
+
+->Revenue trends across branches and categories
      
-**->Identifying best selling product categories**
+->Identifying best selling product categories
      
-**->Sales performance by time, city and payment method**
+->Sales performance by time, city and payment method
      
-**Profit Margin analysis by branch and category**
+->Profit Margin analysis by branch and category
      
 ### *8. Publishing Data into Power BI* 
 
