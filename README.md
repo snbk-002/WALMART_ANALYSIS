@@ -5,3 +5,5 @@
 
 ##  **Project Steps**
 *1. Setting Up Environment*
+ **Tools Used** : Google Colab , PostgreSQL , Power BI
+**Programming Languages** : Python , SQL
