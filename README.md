@@ -14,7 +14,7 @@
 
 **API Setup** : Obtain kaggle api token from kaggle and then download the JSON file
 
-**Configure** : Placing the downloaded kaggle.json file in local folder by using "kaggle datasets -d  dataset-path " to pull datasets directly into the project
+**Configure** : Placing the downloaded kaggle.json file in local folder by using " kaggle datasets download -d  dataset-path " to pull datasets directly into the project
 
 ### *3. Installing Required Libraries*
 
@@ -24,15 +24,27 @@
 
 **->OS**
 
-### *1. Setting Up Environment*
+### *4. Exploring Data*
 
-### *1. Setting Up Environment*
+**Goal** : An initial data exploration to understand data distribution , checking column types , data types , identifying potential issues are to be conducted
 
-### *1. Setting Up Environment*
+**Analysis** : Use functions like .info() , .describe()  and  .head() to get a quick overview
 
-### *1. Setting Up Environment*
+### *5. Data Cleaning(Using Python)*
 
-## *1. Setting Up Environment*
+**Removing Duplicates to avoid skewed results**
+
+**Handling Missing/Null values**
+
+**Fixing Datatypes**
+
+**Renaming Columns**
+
+### *6. Feature Engineering*
+
+### *7. Loading Data into SQL : Complex Queries and Business Solving *
+
+## *8. Project Documentation* 
 
 ## *1. Setting Up Environment*
 
