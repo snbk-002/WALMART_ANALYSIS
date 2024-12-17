@@ -32,23 +32,22 @@
 
 ### *5. Data Cleaning(Using Python)*
 
-**Removing Duplicates to avoid skewed results**
+**->Removing Duplicates to avoid skewed results**
 
-**Handling Missing/Null values**
+**->Handling Missing/Null values**
 
-**Fixing Datatypes**
+**->Fixing Datatypes**
 
-**Renaming Columns**
+**->Renaming Columns**
 
 ### *6. Feature Engineering*
 
-### *7. Loading Data into SQL : Complex Queries and Business Solving *
 
-## *8. Project Documentation* 
 
-## *1. Setting Up Environment*
+### *7. Loading Data into SQL : Complex Queries and Business Solving*
 
-## *1. Setting Up Environment*
+
+### *8. Project Documentation* 
 
 
 
