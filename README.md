@@ -12,7 +12,8 @@
 ### *2. Setting Up Kaggle API*
 
 **API Setup** : Obtain kaggle api token from kaggle and then download the JSON file
-**Configure** : Placing the downloaded kaggle.json file in local folder by using "kaggle datasets -d <dataset-path> " to pull datasets directly into the project
+
+**Configure** : Placing the downloaded kaggle.json file in local folder by using "kaggle datasets -d  dataset-path " to pull datasets directly into the project
 
 ## *1. Setting Up Environment*
 
