@@ -7,6 +7,7 @@
 ### *1. Setting Up Environment*
 
  **Tools Used** : Google Colab , PostgreSQL , Power BI
+ 
 **Programming Languages** : Python , SQL
 
 ### *2. Setting Up Kaggle API*
@@ -15,15 +16,21 @@
 
 **Configure** : Placing the downloaded kaggle.json file in local folder by using "kaggle datasets -d  dataset-path " to pull datasets directly into the project
 
-## *1. Setting Up Environment*
+### *3. Installing Required Libraries*
 
-## *1. Setting Up Environment*
+**->Pandas**
 
-## *1. Setting Up Environment*
+**->Numpy**
 
-## *1. Setting Up Environment*
+**->OS**
 
-## *1. Setting Up Environment*
+### *1. Setting Up Environment*
+
+### *1. Setting Up Environment*
+
+### *1. Setting Up Environment*
+
+### *1. Setting Up Environment*
 
 ## *1. Setting Up Environment*
 
