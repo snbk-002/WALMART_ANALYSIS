@@ -70,10 +70,7 @@ Implementing dashboard to show trends, charts and analyze year-to-year growth
  Maintaining a well structured code documentation through Python notebook and SQL file.
  For details Please go through the PPT
 
-
-
-
-
+![Screenshot 2024-12-25 100621](https://github.com/user-attachments/assets/1ce62a6d-a382-41ea-86f1-814bfad3ecca)
 
 
 
