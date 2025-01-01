@@ -76,5 +76,24 @@ Implementing dashboard to show trends, charts and analyze year-to-year growth
 ![Screenshot 2024-12-25 100621](https://github.com/user-attachments/assets/1ce62a6d-a382-41ea-86f1-814bfad3ecca)
 
 
+#### Key Insights:
 
+1.Sales Trends (2019-2023):
+- Notable growth from 2019 to 2020 across categories.
+  
+- Relatively stable performance from 2020-2023 with slight fluctuations.
+  
+- 2023 shows modest growth compared to 2022 in most categories.
+
+2.Category-specific Insights:
+
+- Electronic accessories: High margin but moderate volume.
+  
+- Fashion accessories: High volume but price sensitive.
+  
+- Food and beverages: Stable pricing but lower total sales.
+  
+- Home and lifestyle: Strong unit price performance at higher quantities.
+  
+- Sports and travel: Most volatile pricing structure.
 
